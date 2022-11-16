@@ -14,7 +14,7 @@ We are given with 2 Routers (0 and 1) with switch on each side and some end devi
 2. Implement the above created ACL on correct interface with in or out keyword.
 3. Check that is the above condition is satisfied, if not then do some troubleshooting steps
 
-**TOUBLESHOOTING**
+**TROUBLESHOOTING**
 - Check Routing is done properly
 - Check ACL is configured properly 
 - Check that ACL is implemented in required interface
